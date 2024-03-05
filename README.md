@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=B298F7&random=false&width=600&lines=Hi%2C+it's+Beatriz+Camino;I'm+a+software+development+student;in+42+Madrid+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=B298F7&center=true&random=false&width=600&lines=Hi%2C+it's+Beatriz+Camino;I'm+a+software+development+student;in+42+Madrid+%3AD)](https://git.io/typing-svg)
 
 <!--
 **beabritt/beabritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
