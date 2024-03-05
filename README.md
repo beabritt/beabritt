@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B298F7&random=false&width=450&lines=Hi%2C+it's+Beatriz+Camino;I'm+a+software+development+student;in+42+Madrid+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B298F7&random=false&width=600&lines=Hi%2C+it's+Beatriz+Camino;I'm+a+software+development+student;in+42+Madrid+%3AD)](https://git.io/typing-svg)
 
 
 <!--
